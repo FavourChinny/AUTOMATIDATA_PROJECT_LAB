@@ -16,7 +16,10 @@ This project uses Python, Pandas, Matplotlib and Seaborn to analyze transportati
    - Develop data-driven insights that can support transportation and operational decision-making.
 
  ## AUTOMATIDATA PROJECT VIEW
-    [VIEW COMPLETE JUPYTER PROJECT](https://github.com/FavourChinny/AUTOMATIDATA_PROJECT_LAB/blob/main/AUTOMATIDATA_PROJECT.ipynb)   
+    [VIEW COMPLETE JUPYTER PROJECT](https://nbviewer.org
+    /github/FavourChinny/AUTOMATIDATA
+    _PROJECT_LAB/blob/main
+    /AUTOMATIDATA_PROJECT.ipynb)   
 
     
  ## TOOLS
